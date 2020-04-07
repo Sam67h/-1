@@ -231,3 +231,11 @@ simple_draw.line(start_point=50, end_point=350, width=1)
 vector_1.draw()
 
 simple_draw.pause()
+
+ша жюыфвлфжлвф
+фывф
+ывф
+ыв
+фыв
+фыв
+фв

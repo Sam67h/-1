@@ -232,13 +232,6 @@ vector_1.draw()
 
 simple_draw.pause()
 
-ша жюыфвлфжлвф
-фывф
-ывф
-ыв
-фыв
-фыв
-фв
 
 input=input("Hey vvedi cod"))
 cod =

@@ -239,3 +239,6 @@ simple_draw.pause()
 фыв
 фыв
 фв
+
+input=input("Hey vvedi cod"))
+cod =
